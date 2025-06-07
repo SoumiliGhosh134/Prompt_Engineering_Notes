@@ -1,0 +1,28 @@
+                                                                                    -:Introduction to Prompt Engineering:-
+Definition:-
+             Prompt Engineering involves designing and refining prompts for language models.
+Role of LLMs:-
+              Large Language Models (LLMs) are central to prompt engineering.
+              LLMs interpret and respond to prompts based on their training data.
+Applications:-
+              Used in various fields such as customer service, content creation, and data analysis.
+
+Use of AI Models:
+i. Creative Text Generation. [Crafts differents format like Poems, Script or Product description based on your prompts.]
+ii. Enhanced Content Creation. [Automate Content generation from Websites, Marketing materials and Social media post accross media format Text, Image, video to effective prompt.]
+iii. Improved Question-Answering. [Formulate clean prompts to get accurate answers from AI models based on their knowledge.]
+iv. Image & Video Generation. [Using AI to generate images, videos, illustrations.]
+v. Code Generation & Review. [Crafts prompt to guide AI models in generating Basic code, functionalities or reviewing existing code for improving and finding error.]
+Benefits:-
+           Improves the accuracy and relevance of responses from language models.
+           Enhances user experience and efficiency in tasks involving LLMs.
+Principles:-
+            Focus on clarity and specificity in prompt design.
+            Iterative testing and refinement of prompts.
+i. Give Direction ii. Specify Format 
+iii. Provides Examples iv. Divide Labor 
+v. Evaluate Quality 
+
+
+Brief History:-
+               Prompt engineering has evolved alongside advancements in AI and machine learning.
